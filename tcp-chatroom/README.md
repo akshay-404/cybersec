@@ -7,7 +7,6 @@ This project is a simple TCP chatroom application that allows multiple clients t
 - **client/client.py**: Contains the client-side implementation of the TCP chatroom. It handles connecting to the server, sending and receiving messages, and managing user input and display.
 - **server/server.py**: Contains the server-side implementation of the TCP chatroom. It manages client connections, broadcasts messages to connected clients, and handles client disconnections.
 - **requirements.txt**: Lists the Python dependencies required for the project. Use this file to install the necessary packages using pip.
-- **.gitignore**: Specifies files and directories that should be ignored by Git, including temporary files, compiled files, and environment files.
 
 ## Setup Instructions
 1. Clone the repository to your local machine:
