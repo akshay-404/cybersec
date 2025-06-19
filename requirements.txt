@@ -1,0 +1,2 @@
+# No external dependencies are required for this simple TCP chatroom server.
+# The code uses Python's built-in libraries: socket, threading, and json.
